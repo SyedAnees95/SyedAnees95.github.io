@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Welcome - Adeel Ali</title>
+  <title>Welcome </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Google Font -->
@@ -100,7 +100,7 @@
 
   <div class="container">
     <h1>Hi, I'm Syed Anees</h1>
-    <h2>Rigger 3 & EOT Crane Operator</h2>
+    <h2>Mobile Application Developer</h2>
 
     <button class="btn" onclick="goToSite()">Enter Website</button>
 
